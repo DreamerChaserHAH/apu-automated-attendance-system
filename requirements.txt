@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+pyautogui
+opencv-python
+pyscreeze
+pytesseract
